@@ -1,1 +1,13 @@
+/* ===== App.css ===== */
+
 @import "tailwindcss";
+
+body {
+  min-height: 100vh;
+  font-family: system-ui, -apple-system, "BlinkMacSystemFont", sans-serif;
+  background: linear-gradient(to bottom, #a3d5ff, #c2e9ff, #e6f7ff);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
